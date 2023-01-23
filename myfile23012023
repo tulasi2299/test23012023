@@ -1,0 +1,2 @@
+String str="tulasi";
+system.out.println(str);
